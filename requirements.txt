@@ -3,9 +3,9 @@ setuptools>=75.0
 wheel
 numpy==1.26.4
 pickle-mixin==1.0.2
-streamlit==1.35.0
+streamlit==1.32.2
 streamlit-option-menu==0.3.2
-scikit-learn==1.5.1
+scikit-learn==1.4.2
 
 
 
